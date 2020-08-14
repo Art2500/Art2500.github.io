@@ -12,4 +12,4 @@ This is where my website lives. Still under construction but it will soon have m
 
 This is my final project take a look at it! I hope you enjoy.
 
-[https://art2500.github.io/COVID-19/](https://art2500.github.io/COVID-19/)
+[https://art2500.github.io/COVID-19/](Come on click on it! You know you want to.)
